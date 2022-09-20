@@ -10,5 +10,5 @@
 
 > - O livro "Python for Data Analysis, 3E" aborda as aplicações,modos de uso e interações entre o Python e a Biblioteca pandas;
 >  
-> -O livro foi escrito pelo próprio criador do pacote de código aberto do Pandas: [Wes McKinney](https://github.com/wesm).
+> - O livro foi escrito pelo próprio criador do pacote de código aberto do Pandas: [Wes McKinney](https://github.com/wesm).
 
