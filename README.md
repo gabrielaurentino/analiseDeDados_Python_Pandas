@@ -1,5 +1,5 @@
 # Curso sobre Análise de Dados(DIO)
-Repositório para anotações e exemplificações relacionados a Analise de Dados com Panda e Python
+Repositório para anotações e exemplificações relacionados a Analise de Dados com Pandas e Python
 
  **Assuntos abordados neste repositório**:
 
